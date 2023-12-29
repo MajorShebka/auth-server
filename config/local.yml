@@ -1,0 +1,6 @@
+env: "local"
+storage_url: "mongodb://127.0.0.1:27017"
+token_ttl: 1h
+grpc:
+  port: 8080
+  timeout: 10h
